@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 New 5th file localy
 
 
 addede
 
 hi
+=======
+Repo update
+>>>>>>> f4bf52916793b0e1ad2b7b3cba336097eb9947dd
